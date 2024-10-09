@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp", "CSharp\CSharp.csproj", "{56E9599A-04DC-4483-8AF3-3F7D77335CDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A", "A\A.csproj", "{E54CBC9A-E3BE-4A33-991E-B5F08F9F7F59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF_Switch", "A\IF_Switch.csproj", "{E54CBC9A-E3BE-4A33-991E-B5F08F9F7F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{6886D23D-695A-4397-BA90-70BCC642A161}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E54CBC9A-E3BE-4A33-991E-B5F08F9F7F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E54CBC9A-E3BE-4A33-991E-B5F08F9F7F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E54CBC9A-E3BE-4A33-991E-B5F08F9F7F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6886D23D-695A-4397-BA90-70BCC642A161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6886D23D-695A-4397-BA90-70BCC642A161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6886D23D-695A-4397-BA90-70BCC642A161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6886D23D-695A-4397-BA90-70BCC642A161}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
